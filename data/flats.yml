@@ -1,0 +1,21 @@
+rkretch91:
+  name: "Ryan's home"
+  description: "Charming room in Montmartre"
+  city_name: "New York, US"
+  city_slug: "new york"
+  wifi: true
+  rating: 5
+elephantonaleaf:
+  name: "Harrison's Falling Water"
+  description: "Organic architecture"
+  city_name: "Millhouse, Pennsylvania"
+  city_slug: "tokyo"
+  wifi: false
+  rating: 5
+yangnation:
+  name: "Yang's home"
+  description: "Nice flat in Piccadilly"
+  city_name: "London, UK"
+  city_slug: "london"
+  wifi: true
+  rating: 5
